@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: ListasEnlazadas, configuración: Debug Any CPU ------
+1>C:\Users\Adriana P\Desktop\DESKTOP\5toSemestre\ListasEnlazadas\ListasEnlazadas\ListaEnlazadaSimple.cs(12,30,12,31): error CS8180: Se esperaba { o ; o =>.
+1>Compilación del proyecto "ListasEnlazadas.csproj" terminada -- ERROR.
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========

@@ -1,0 +1,4 @@
+C:\Users\Adriana P\Desktop\DESKTOP\5toSemestre\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.csprojAssemblyReference.cache
+C:\Users\Adriana P\Desktop\DESKTOP\5toSemestre\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.AssemblyInfoInputs.cache
+C:\Users\Adriana P\Desktop\DESKTOP\5toSemestre\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.AssemblyInfo.cs
+C:\Users\Adriana P\Desktop\DESKTOP\5toSemestre\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.csproj.CoreCompileInputs.cache
